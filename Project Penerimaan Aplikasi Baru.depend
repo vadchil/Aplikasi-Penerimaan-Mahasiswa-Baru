@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669727308 source:c:\users\administrator\documents\project penerimaan aplikasi baru\main.cpp
+	<iostream>
+
+1670481355 source:c:\users\administrator\downloads\compressed\project penerimaan aplikasi baru\main.cpp
+	<iostream>
+	<windows.h>
+
